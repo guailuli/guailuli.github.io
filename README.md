@@ -1,2 +1,2 @@
 # guailuli.github.io
-september
+blog
